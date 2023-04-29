@@ -1,3 +1,3 @@
 # JAVA_ASSIGNMENT_SEM4
 
-### `All code inside in src folder` </br>
+### `All assignments are available in the src folder` </br>
